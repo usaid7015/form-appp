@@ -46,7 +46,7 @@ p{
     margin-left: 10px;
     cursor: pointer;
 }
-@media (max-width: 425px){
+@media (max-width: 768px){
     body #img{
         display: block;
         width: 100%;
